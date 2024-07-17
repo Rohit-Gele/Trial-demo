@@ -1,5 +1,5 @@
 # Trial-demo
-learning github.
+learning GitHub.
 <br>
 Author - Rohit Gele
 
